@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://adiaz327.github.io/example-hugo-site/"
 themesDir = "themes"
-publishDir = "docs"
+publishDir = "docs "
 languageCode = "en-us"
 title = "My First Hugo Website"
 theme = "Cactus"
