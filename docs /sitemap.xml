@@ -38,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://adiaz327.github.io/example-hugo-site/categories/development/</loc>
+    <loc>https://adiaz327.github.io/example-hugo-site/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adiaz327.github.io/example-hugo-site/tags/development/</loc>
+    <loc>https://adiaz327.github.io/example-hugo-site/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,13 +56,13 @@
   </url>
   
   <url>
-    <loc>https://adiaz327.github.io/example-hugo-site/categories/golang/</loc>
+    <loc>https://adiaz327.github.io/example-hugo-site/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adiaz327.github.io/example-hugo-site/tags/golang/</loc>
+    <loc>https://adiaz327.github.io/example-hugo-site/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
